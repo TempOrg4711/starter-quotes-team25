@@ -9,16 +9,23 @@ Project contributors:
 - Tim
 - Karl
 
+## [v0.4.0] - Sept 17, 3.54 pm
+### Added
+- Stylized the actors page to show a quote for the actor inside a quotation bubble.
+
+### Changed
+- Updated role name of one of our actors.
+
 ##[v0.3.0] - Sept 17, 3.30 pm
 ###Added
 - New functionality makes it possible for individual actor records to be shown.
-- All actors on homepage have new, corresponding, individual actor pages
+- All actors on homepage have new, corresponding, individual actor pages.
 ###Changed
-- Homepage now includes links to individual actor pages via image links
+- Homepage now includes links to individual actor pages via image links.
 
 ## [v0.2.0] - Sept 17, 3.13 pm
 ### Added
-- Added tooltip to each actor
+- Added tooltip to each actor.
 
 ## [v0.1.0] - Sept 17, 2.24 pm
 ### Added
@@ -26,4 +33,4 @@ Project contributors:
 
 ## [Unreleased] - Sept 17, 2.04 pm
 ### Added
-- Changelog (additions newest first)
+- Changelog (additions newest first).
