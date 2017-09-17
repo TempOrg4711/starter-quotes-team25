@@ -17,10 +17,6 @@ Project contributors:
 ### Added
 - Added a new quote with two new images.
 
-## [v0.1.0] - Sept 17, 2.24 pm
-### Added
-- Added a new quote with two new images.
-
 ## [Unreleased] - Sept 17, 2.04 pm
 ### Added
 - Changelog (additions newest first)
