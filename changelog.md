@@ -9,6 +9,9 @@ Project contributors:
 - Tim
 - Karl
 
+## [v0.2.0] - Sept 17, 3.13 pm
+### Added
+- Added tooltip to each actor
 
 ## [v0.1.0] - Sept 17, 2.24 pm
 ### Added
